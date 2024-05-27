@@ -16,7 +16,7 @@ Primero, clona el repositorio del proyecto desde GitHub:
 
 sh
 Copiar código
-git clone https://github.com/tuusuario/promedio.git
+git clone https://github.com/dawri22/promedio.git
 Paso 2: Abrir el proyecto en Android Studio
 Abre Android Studio.
 Selecciona "Open an existing project".
